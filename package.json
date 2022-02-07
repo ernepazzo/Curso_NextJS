@@ -1,0 +1,21 @@
+{
+  "name": "Curso_NextJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "strat": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^5.0.0",
+    "next": "^12.0.10",
+    "node-fetch": "^3.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
