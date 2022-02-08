@@ -15,6 +15,7 @@ export default function Home() {
         {`
           p {
             color: darkgray;
+            font-size: 30px;
           }
 
           p:hover {
